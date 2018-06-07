@@ -19,3 +19,8 @@ Csone Overview
 * build a new query and add map with required fields
 * System.assert('declared variable'.containsKey('CampaignMember')
 * System.debug('declared variable')
+* learn.cisco.com
+* Cisco training link from Kevin
+* structure the parameters
+* call values in caseID
+* Related Case is a new field = Reactive_SR__c 
