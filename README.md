@@ -24,3 +24,8 @@ Csone Overview
 * structure the parameters
 * call values in caseID
 * Related Case is a new field = Reactive_SR__c 
+
+##
+/services/apexrest/CasesManagerAPI/a0X0R0000000CBS
+* [Using Custom Types in Map Keys and Sets](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_collections_maps_keys_userdefined.htm)
+* 
