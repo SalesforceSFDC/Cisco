@@ -3,5 +3,7 @@
 * SHN_Key__c
 * Expires_On__c
 * Requested_By__c
-*  Status__c
-* 
+* Status__c
+* Container_Value__c
+* Notes
+
