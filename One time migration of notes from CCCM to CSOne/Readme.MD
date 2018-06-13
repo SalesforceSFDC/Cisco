@@ -96,6 +96,28 @@ I don’t think you have access to the below user story. I added everything in t
 @ Vamsi, can you help Vuk with the required access to Rally, Dev, Stage, … ?
 
 https://rally1.rallydev.com/#/110682888092d/detail/userstory/122693313876
-	
+#
+- Org
+- Domain
+- Site
+
+Criteria to pull the note from CCCM:
+
+   	DB Source equals  Null
+   	AND Category equals Domain Note,Org Note,Site Note
+ 	AND Active equals True
+
+Report link: https://cccm.my.salesforce.com/00O0B00000305o5
+
+Please find attached the current note object definitions in CCCM and CSOne. consider this as a initial version to compile the final mapping sheet. 
+
+User story template to be filled:
+
+1 BUSINESS BENEFIT (PROVIDE OBJECTIVE INFO WHERE EVER IT IS APPLICABLE)
+2 RCA AND ANY CURRENT WORKAROUND (WHEREEVER IT IS APPLICABLE) - N/A
+3 TECHNICAL SOLUTION PROPOSED - provided under task details
+4 IMPACT OF THE TECHNICAL SOLUTION/CHANGE - one time data migration
+5 REQUESTER FOR THIS CHANGE AND IMPACTED USERS
+6 USER ACCEPTANCE CRITERIA
 	
 	
