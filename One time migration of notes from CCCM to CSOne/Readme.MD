@@ -90,7 +90,12 @@ CCCM Note Data Migration Steps
 
 24. Review Success and Errors file imported using Data Loader
 #
+I don’t think you have access to the below user story. I added everything in the email, so that you can start. Feel free to reach out to Chandra with any questions. As I mentioned we like to have this completed by EOW if possible so that QA can test. Let us know the ETA.
 
+
+@ Vamsi, can you help Vuk with the required access to Rally, Dev, Stage, … ?
+
+https://rally1.rallydev.com/#/110682888092d/detail/userstory/122693313876
 	
 	
 	
