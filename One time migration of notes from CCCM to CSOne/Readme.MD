@@ -120,7 +120,7 @@ User story template to be filled:
 5 REQUESTER FOR THIS CHANGE AND IMPACTED USERS
 6 USER ACCEPTANCE CRITERIA
 #
-1. Pull the data from Note__c object from CCCM 
+1. <b>Pull the data from Note__c object from CCCM</b> 
 2. Prepare the data migration file(.csv format) and have the volookup for the site id for the BLIS sites 
 3. Create Container Type Value, Container Type Id field on Special_Handling_Note object in CSOne
 4. Add Org, Site, Domain picklist values on SHN_Key__c field on Special_Handling_Note object
