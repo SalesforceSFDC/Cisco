@@ -121,8 +121,11 @@ User story template to be filled:
 6 USER ACCEPTANCE CRITERIA
 #
 1. <b>Pull the data from Note__c object from CCCM</b> 
-2. Prepare the data migration file(.csv format) and have the volookup for the site id for the BLIS sites 
+2. Prepare the data migration file(.csv format) and have the vlookup for the site id for the BLIS sites 
+	* What is BLIS sites?
 3. Create Container Type Value, Container Type Id field on Special_Handling_Note object in CSOne
+	* Data for Container Type Value?
+	* External ID and how many characters for Container Type Id?
 4. Add Org, Site, Domain picklist values on SHN_Key__c field on Special_Handling_Note object
 5. increase Notes__c field length from 1900 to 32768 --> Biz agreed to clean up the CCCM notes to 1900 char hence field length will not be increased.
 6. Use data loader to import the file compiled in step 2.
