@@ -132,4 +132,3 @@ User story template to be filled:
 	* This is a contradictory statement.  Please clarify.
 6. Use data loader to import the file compiled in step 2.
 7. validate the data in CSOne 
-	
