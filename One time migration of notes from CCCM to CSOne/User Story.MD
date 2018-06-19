@@ -1,5 +1,7 @@
 CCCM Note Data Migration Steps
 
+https://people.highline.edu/mgirvin/excelisfun.htm
+
 *******For some Domains, the Site External ID is null. Why is this?
 *******Ask business, is it okay for us to use Data Migration user as the Requested By field?
 *******Do we need to populate the Expiration Date field?
