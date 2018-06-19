@@ -1,6 +1,7 @@
 CCCM Note Data Migration Steps
 
-* [Excel workbook](https://people.highline.edu/mgirvin/excelisfun.htm)
+* [Excel Workbook](https://people.highline.edu/mgirvin/excelisfun.htm)
+* [Excel Workbook Series on YouTube](https://www.youtube.com/watch?v=-hJxIMBbmZY)
 
 *******For some Domains, the Site External ID is null. Why is this?
 *******Ask business, is it okay for us to use Data Migration user as the Requested By field?
