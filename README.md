@@ -8,7 +8,6 @@ apis for creating events or getting event details
 geteventdetails
 upsertevents
 getEventSummary
-
 Csone Overview
 
 * Forumla field = SR_Number
